@@ -1,5 +1,7 @@
 <h1 align="center">
-       ✨  Quiz Web App  ✨
+       ✨  Online Quiz Platform  ✨
+           INCRUITER ASSIGNMENT
+            EVA GOEL
 </h1>
 
 <div align="center">
@@ -10,7 +12,7 @@
 </div>
 
 <h3 align="center">
-          Live Project : https://ask-quiz.netlify.app/
+          Live Project :  https://evagoel.github.io/Incruiter/
 </h3>
 <br />
 
@@ -19,12 +21,12 @@
 
 - **Frontend:** HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI 
 - **Version Control:** Git and GitHub
-- **Hosting:** Netlify
+- **Hosting:** Github
 - **Code Editor and tools**: VS Code
 
  <br />
 
-   <p align="center">✨ Welcome to Quiz Web App ✨ <br /></p>
+   <p align="center">✨ Welcome to Online Quiz Platform ✨ <br /></p>
 
 
 ## Table of Contents
@@ -123,6 +125,6 @@ git push -u origin <your_branch_name>
 
 **13.** Click on `Create Pull Request`.
 
-**14** You did it! 🥳 Wait for your submission to be accepted and your PR to be merged.
+**14** You did it! 🥳
 
 <br />
