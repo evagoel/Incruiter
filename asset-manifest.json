@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Incruiter_Frontend/static/css/main.9576f387.css",
+    "main.js": "/Incruiter_Frontend/static/js/main.d43699e2.js",
+    "static/media/scoreboard-bg.jpg": "/Incruiter_Frontend/static/media/scoreboard-bg.349e0f5ecc1ec24b62f7.jpg",
+    "static/media/EVA.png": "/Incruiter_Frontend/static/media/EVA.3235ffc3cbffb493f1b3.png",
+    "static/media/select-sound.mp3": "/Incruiter_Frontend/static/media/select-sound.c612248dbd4f00e6c581.mp3",
+    "static/media/logo.png": "/Incruiter_Frontend/static/media/logo.aacab93af8df75b2f51e.png",
+    "index.html": "/Incruiter_Frontend/index.html",
+    "main.9576f387.css.map": "/Incruiter_Frontend/static/css/main.9576f387.css.map",
+    "main.d43699e2.js.map": "/Incruiter_Frontend/static/js/main.d43699e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9576f387.css",
+    "static/js/main.d43699e2.js"
+  ]
+}
